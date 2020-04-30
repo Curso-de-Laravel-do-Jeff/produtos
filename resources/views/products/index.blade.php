@@ -8,7 +8,7 @@
     <h1 class="text-center">Products</h1>
     <hr/>
 
-    <table class="table table-sriped table hover">
+    <table class="table table-striped table-hover">
         <thead>
             <tr>
                 <th class="text-center">ID</th>
